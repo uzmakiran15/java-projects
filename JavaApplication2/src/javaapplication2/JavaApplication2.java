@@ -44,6 +44,8 @@ static String calculateGrade(double percentage) {
 
         System.out.println("\n----- Student Report -----");
         System.out.println("Name: " + name);
+        System.out.println("Name: " + name);
+        System.out.println("Name: " + name);
         System.out.println("Roll No: " + roll);
         System.out.println("Marks: " + m1 + ", " + m2 + ", " + m3);
         System.out.println("Total: " + total + "/300");
