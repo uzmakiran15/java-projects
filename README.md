@@ -1,11 +1,8 @@
 Lab 3-4 Practice Fork
 
 Team Memebrs Names
-Manahil Zainab
-
-
-Muhammad Farhan
-Fatima Tul Zahra
+MUBASHAR FAIZAN 
+JUNAID MAQSOOD
 
 
 
