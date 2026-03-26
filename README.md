@@ -1,4 +1,12 @@
 Lab 3-4 Practice Fork
+<<<<<<< HEAD
+Team Members:
+- Jawad Hassan
+=======
+team Members namres
+Jawad Hassan
+
+>>>>>>> 577f348 (add my name to team Members)
 
 Team Memebrs Names
 Manahil Zainab
